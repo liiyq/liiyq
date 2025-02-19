@@ -58,7 +58,7 @@
 
 |     | Project | Tech Stack | Key Achievements |
 |-----|---------|------------|------------------|
-| 🎮 | **[Player Retention Analysis](https://github.com/liiyq/CookieCats_ABTest/tree/main)** | `Python` `SciPy` `Bootstrapping` | Increased 7-day retention by 18% through 10,000-iteration A/B testing |
+| 🎮 | **[Mobile Game A/B Test Analysis](https://github.com/liiyq/CookieCats_ABTest/tree/main)** | `Python` `A/B Testing` `Bootstrapping` | Analyzed 90K+ player data through A/B testing to optimize game mechanics; prevented 16.7% potential retention loss with evidence-based recommendations |
 | 🛒 | **[Customer Segmentation System](https://github.com/liiyq/customer-segmentation)** | `RFM` `K-Means` `Plotly` | Boosted promotion ROI by 25% using heatmap-driven cohort analysis |
 | 🏦 | **[Loan Eligibility Predictor](https://github.com/liiyq/loan-prediction)** | `XGBoost` `GridSearch` `SMOTE` | Reduced manual review time by 40% with 89% accuracy model |
 | 💬 | **[Text Classification Engine](https://github.com/liiyq/Customer_Feedback_Classifier)** | `BiLSTM` `TextVectorization` `BERT` | Achieved 95.6% accuracy on complex intent detection |
