@@ -1,53 +1,66 @@
-# 👋 Hi, I'm Yunqing Li
-**`Data Analyst | Data Scientist`**
+<div align="center">
+  
+# 👋 Hi, I'm Yunqing Li  
+**`Data Analyst | Data Scientist | Marketing Analyst`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunqing-li19)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmayqli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liiyq)
+</div>
 
+<p align="center">
+  <a href="https://linkedin.com/in/yunqing-li19">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:emmayqli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/liiyq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=liiyq&color=blueviolet&style=for-the-badge">
+</p>
 
-## 🛠️ Technical Arsenal
+---
 
-### 🔌 Programming & Databases
+## 🛠️ Technical Stack
+
+#### 💻 Core Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+#### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+
+#### 📈 Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-5C8DBC?logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
+#### 🧠 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?logo=xgboost&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
 
-### 🔍 Advanced Analytics
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)
-![VBA](https://img.shields.io/badge/VBA-217346?logo=vba)
-
-### 📈 Visualization Tools
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python)
-
-### 🤖 Machine Learning 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![XGBoost](https://img.shields.io/badge/-XGBoost-017CEE?logo=xgboost)
-![Time_Series](https://img.shields.io/badge/-Time_Series-4CAF50?logo=time)
-
-### 🛠️ Data Engineering
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+#### ⚙️ Data Engineering
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FFD700?logo=etl)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks)
 
-
+---
 ## 🚀 Featured Projects
 
 <div align="center">
 
-|  | Project | Tech Stack | Description |
-|--|---------|------------|-------------|
-| 🎮 | **[Player Retention Analysis](https://github.com/liiyq/game-analytics)** | `Python` `A/B Testing` `Tableau` | Optimizing gaming strategies through cohort analysis and experimental design |
-| 🛒 | **[Customer Segmentation System](https://github.com/liiyq/customer-segmentation)** | `RFM` `Clustering` `Heatmaps` | Aligning promotions with purchasing behavior insights |
-| 🏦 | **[Loan Prediction AI](https://github.com/liiyq/loan-prediction)** | `XGBoost` `Feature Engineering` `SMOTE` | Automating financial decision workflows with class imbalance solutions |
-| 💬 | **[Sentiment Analysis Engine](https://github.com/liiyq/nlp-sentiment)** | `BiLSTM` `TensorFlow` `NLP` | Decoding customer feedback through deep learning architectures |
+|     | Project | Tech Stack | Key Achievements |
+|-----|---------|------------|------------------|
+| 🎮 | **[Player Retention Analysis](https://github.com/liiyq/game-analytics](https://github.com/liiyq/CookieCats_ABTest))** | `Python` `SciPy` `Bootstrapping` | Increased 7-day retention by 18% through 10,000-iteration A/B testing |
+| 🛒 | **[Customer Segmentation System](https://github.com/liiyq/customer-segmentation)** | `RFM` `K-Means` `Plotly` | Boosted promotion ROI by 25% using heatmap-driven cohort analysis |
+| 🏦 | **[Loan Eligibility Predictor](https://github.com/liiyq/loan-prediction)** | `XGBoost` `GridSearch` `SMOTE` | Reduced manual review time by 40% with 89% accuracy model |
+| 💬 | **[Text Classification Engine](https://github.com/liiyq/Customer_Feedback_Classifier)** | `BiLSTM` `TextVectorization` `BERT` | Achieved 95.6% accuracy on complex intent detection |
 
 </div>
