@@ -52,15 +52,17 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 
 ---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 |     | Project | Tech Stack | Key Achievements |
 |-----|---------|------------|------------------|
-| 🎮 | **[Mobile Game A/B Test Analysis](https://github.com/liiyq/CookieCats_ABTest/tree/main)** | `Python` `A/B Testing` `Bootstrapping` | Analyzed 90K+ player data through A/B testing to optimize game mechanics; prevented 16.7% potential retention loss with evidence-based recommendations |
-| 🛒 | **[Customer Segmentation System](https://github.com/liiyq/customer-segmentation)** | `RFM` `K-Means` `Plotly` | Boosted promotion ROI by 25% using heatmap-driven cohort analysis |
-| 🏦 | **[Loan Eligibility Predictor](https://github.com/liiyq/loan-prediction)** | `XGBoost` `GridSearch` `SMOTE` | Reduced manual review time by 40% with 89% accuracy model |
-| 💬 | **[Airline Tweet Complaint Detector](https://github.com/liiyq/Customer_Feedback_Classifier)** | `BiLSTM` `TextVectorization` `BERT` | Achieved 95.6% accuracy on complex intent detection |
+| 🎮 | **[Mobile Game A/B Test Analysis](https://github.com/liiyq/CookieCats_ABTest/tree/main)** | `Python` `A/B Testing` `Bootstrapping` | Improved player retention strategy by analyzing 90K+ session data, preventing 16.7% potential loss |
+| 🛒 | **[Customer Segmentation System](https://github.com/liiyq/customer-segmentation)** | `RFM` `K-Means` `Data Visualization` | Increased promotion ROI by 25% through customer behavior clustering |
+| 🏦 | **[Loan Prediction Model](https://github.com/liiyq/loan-prediction)** | `XGBoost` `GridSearch` `SMOTE` | Automated loan approval process using machine learning, improving efficiency with 89% accuracy |
+| 💬 | **[Airline Complaint Classifier](https://github.com/liiyq/Customer_Feedback_Classifier)** | `BiLSTM` `BERT` `NLP` | Built a deep learning model that identifies and classifies customer complaints from social media, improving sentiment analysis with 95.6% accuracy |
 
 </div>
+
