@@ -61,7 +61,7 @@
 | 🎮 | **[Mobile Game A/B Test Analysis](https://github.com/liiyq/CookieCats_ABTest/tree/main)** | `Python` `A/B Testing` `Bootstrapping` | Analyzed 90K+ player data through A/B testing to optimize game mechanics; prevented 16.7% potential retention loss with evidence-based recommendations |
 | 📊 | **[Retail Customer Cohort Analysis](https://github.com/liiyq/cohort-analysis-of-bike-company)** | `Python` `Cohort Analysis` `Seaborn` | Developed comprehensive cohort analysis framework revealing key retention patterns across product lines and identified seasonal impacts on customer behavior |
 | 💬 | **[Airline Complaint Classifier](https://github.com/liiyq/Customer_Feedback_Classifier)** | `BiLSTM` `TensorFlow` `NLP` | Built deep learning model achieving 84.1% accuracy in complaint classification; identified actionable patterns in customer feedback |
-| 💰 | **[Loan Eligibility Prediction](https://github.com/liiyq/loan-eligibility-prediction)** | `XGBoost` `scikit-learn` `SMOTE` | Developed ML pipeline with 85.1% accuracy using ensemble methods; automated risk assessment process |
+| 💰 | **[Loan Eligibility Prediction](https://github.com/liiyq/loan-prediction)** | `XGBoost` `scikit-learn` `SMOTE` | Developed ML pipeline with 85.1% accuracy using ensemble methods; automated risk assessment process |
 
 </div>
 
