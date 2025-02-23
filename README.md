@@ -54,15 +54,14 @@
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 
 |     | Project | Tech Stack | Key Achievements |
 |-----|---------|------------|------------------|
-| 🎮 | **[Mobile Game A/B Test Analysis](https://github.com/liiyq/CookieCats_ABTest/tree/main)** | `Python` `A/B Testing` `Bootstrapping` | Improved player retention strategy by analyzing 90K+ session data, preventing 16.7% potential loss |
-| 🛒 | **[Customer Segmentation System](https://github.com/liiyq/customer-segmentation)** | `RFM` `K-Means` `Data Visualization` | Increased promotion ROI by 25% through customer behavior clustering |
-| 🏦 | **[Loan Prediction Model](https://github.com/liiyq/loan-prediction)** | `XGBoost` `GridSearch` `SMOTE` | Automated loan approval process using machine learning, improving efficiency with 89% accuracy |
-| 💬 | **[Airline Complaint Classifier](https://github.com/liiyq/Customer_Feedback_Classifier)** | `BiLSTM` `BERT` `NLP` | Built a deep learning model that identifies and classifies customer complaints from social media, improving sentiment analysis with 95.6% accuracy |
+| 🎮 | **[Mobile Game A/B Test Analysis](https://github.com/liiyq/CookieCats_ABTest/tree/main)** | `Python` `A/B Testing` `Bootstrapping` | Analyzed 90K+ player data through A/B testing to optimize game mechanics; prevented 16.7% potential retention loss with evidence-based recommendations |
+| 📊 | **[Retail Customer Cohort Analysis](https://github.com/liiyq/cohort-analysis-of-bike-company)** | `Python` `Cohort Analysis` `Seaborn` | Developed comprehensive cohort analysis framework revealing key retention patterns across product lines and identified seasonal impacts on customer behavior |
+| 💬 | **[Airline Complaint Classifier](https://github.com/liiyq/Customer_Feedback_Classifier)** | `BiLSTM` `TensorFlow` `NLP` | Built deep learning model achieving 84.1% accuracy in complaint classification; identified actionable patterns in customer feedback |
+| 💰 | **[Loan Eligibility Prediction](https://github.com/liiyq/loan-eligibility-prediction)** | `XGBoost` `scikit-learn` `SMOTE` | Developed ML pipeline with 85.1% accuracy using ensemble methods; automated risk assessment process |
 
 </div>
 
